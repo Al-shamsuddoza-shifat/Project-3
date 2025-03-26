@@ -1,2 +1,2 @@
-# First cimmit
-this is the first cimmit on local system.
+# New project
+this is the new project on local system.
